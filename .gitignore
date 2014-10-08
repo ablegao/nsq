@@ -1,4 +1,3 @@
-.godeps
 build
 apps/nsqlookupd/nsqlookupd
 apps/nsqd/nsqd
